@@ -51,3 +51,7 @@
 
 > **负责步兵机器人部分功能的嵌入式软件开发、原理图绘制、PCB 设计等**
 
+照片：
+
+![Robomaster机器人_2](https://user-images.githubusercontent.com/47512823/222718625-3e91fb98-442e-45ca-801e-5ff0f209530c.jpg)
+
